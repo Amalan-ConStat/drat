@@ -1,12 +1,3 @@
-Package: drat
-Version: 0.1.8
-Depends: R (>= 3.2.0)
-Imports: utils
-Suggests: git2r, knitr, rmarkdown
-License: GPL (>= 2)
-MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
-NeedsCompilation: no
-
 Package: gridlayout
 Version: 0.2.1
 Depends: R (>= 2.10)
@@ -15,5 +6,3 @@ Suggests: testthat (>= 3.0.0), shiny, bslib, crayon, knitr,
        rmarkdown, fontawesome, here, rstudioapi, fs, glue,
        ggplot2, gt, shinytest2
 License: MIT + file LICENSE
-MD5sum: 2213b593fcb95a257b1970961f93c500
-NeedsCompilation: no
