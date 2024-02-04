@@ -2,7 +2,6 @@ Package: gridlayout
 Version: 0.2.1
 Depends: R (>= 2.10)
 Imports: magrittr, htmltools, rlang, lifecycle
-Suggests: testthat (>= 3.0.0), shiny, bslib, crayon, knitr,
-       rmarkdown, fontawesome, here, rstudioapi, fs, glue,
-       ggplot2, gt, shinytest2
+Suggests: testthat (>= 3.0.0), shiny, bslib, crayon, knitr, rmarkdown,
+         fontawesome, here, rstudioapi, fs, glue, ggplot2, gt, shinytest2
 License: MIT + file LICENSE
